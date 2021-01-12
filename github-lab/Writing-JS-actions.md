@@ -1,4 +1,4 @@
-[https://user-images.githubusercontent.com/65865529/104363748-6b119580-54f4-11eb-929e-d5401bf08208.png]
+![cover for actions on github](https://user-images.githubusercontent.com/65865529/104363748-6b119580-54f4-11eb-929e-d5401bf08208.png)
 
 Here's the repo for the construction: https://github.com/diogojorgebasso/writing-javascript-actions
 
