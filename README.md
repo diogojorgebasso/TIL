@@ -17,3 +17,4 @@ Used the WSL Ubuntu, so, learned more about git config and conventional commits.
 
 13/1/2021:
 Finished the course publiching to github packages: https://github.com/diogojorgebasso/github-actions-for-packages/
+CodeQl => https://github.com/diogojorgebasso/codeql-javascript-unsafe-jquery-plugin
