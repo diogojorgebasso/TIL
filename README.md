@@ -1,13 +1,18 @@
-# TIL
-## "Today I learn" is a repo that shows my study route for inspiring others in the magical world of programming!
+# TIL 🚀
+## "Today I learn" is a repo that shows my study route for inspiring others in the magical world of programming! 
 
 A collection of concise write-ups on small ideas that I learn *day to day* across a
 variety of languages and technologies.
 With this, I wish to build rapport and engagement among the community for future opportunities!
 
-_5 TILs and counting..._
+✨ _5 TILs and counting..._
 
 ---
+
+### Daily Updated Activity: 😀
+
+<details>
+<summary>Find the detailed route here</summary>
 
 ##### 1. 12/1/20201
 * Finished the Github Actions course for working with Javascript actions: [Link](https://github.com/actions/toolkit).
@@ -28,6 +33,26 @@ _5 TILs and counting..._
 * Submitted an issue to implement .ql icon in the vscode extension [material themes icon](https://github.com/PKief/vscode-material-icon-theme/issues/931).
 * And, as I studied CodeQl, I saw the opportunitie to make the course [security on GitHub](https://github.com/diogojorgebasso/security-on-github/) to really understand the basics of how GitHub deal with.
 
-#### 5. 16/1/2021
+##### 5. 16/1/2021
 * Finished the course [JS30](https://javascript30.com/), which helped me  -a lot in- expanding the mind about vanilla JS: localStorage, events in general, functions, the structure of arrays, and a lot more. A highly recommended and transforming course that allows programmers and designers to understand the underly logic in Javascript, whereas seeing the possibilities that we can create.
 * Studying the possibility of translating the course JS30.
+
+</details>
+
+## Folders Hierarchy for better understanding 📂
+
+.
+├── README
+|-- language
+├── courses                    # Documentation files (alternatively `doc`)
+│   ├── GitHub              # Table of contents
+│   ├── Wesbos              # Frequently asked questions
+│   ├── B7Web             # Miscellaneous information
+│   ├── Linkedin            # Getting started guide
+│   └── ...                 # etc.
+|── books
+|-- stacks
+|-- repos
+|-- best-practice
+|-- technologies
+|-- 
