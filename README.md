@@ -9,7 +9,7 @@ With this, I wish to build rapport and engagement among the community for future
 
 ---
 
-### Daily Updated Activity: 😀
+### Activity: 😀
 
 <details>
 <summary>Find the detailed route here</summary>
@@ -43,16 +43,15 @@ With this, I wish to build rapport and engagement among the community for future
 
 .
 ├── README
-|-- language
-├── courses                    # Documentation files (alternatively `doc`)
-│   ├── GitHub              # Table of contents
-│   ├── Wesbos              # Frequently asked questions
-│   ├── B7Web             # Miscellaneous information
-│   ├── Linkedin            # Getting started guide
-│   └── ...                 # etc.
+|-- programming
+├── courses                    
+│   ├── GitHub              
+│   ├── Wesbos             
+│   ├── B7Web             
+│   ├── Linkedin              
 |── books
 |-- stacks
 |-- repos
 |-- best-practice
 |-- technologies
-|-- 
+|-- ideas
