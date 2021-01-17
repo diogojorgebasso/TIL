@@ -40,18 +40,19 @@ With this, I wish to build rapport and engagement among the community for future
 </details>
 
 ## Folders Hierarchy for better understanding 📂
-
+<pre>
 .
-├── README
+├── README.md
 |-- programming
 ├── courses                    
-│   ├── GitHub              
-│   ├── Wesbos             
-│   ├── B7Web             
-│   ├── Linkedin              
+   ├── GitHub              
+   ├── Wesbos             
+   ├── B7Web             
+   ├── Linkedin              
 |── books
 |-- stacks
 |-- repos
 |-- best-practice
 |-- technologies
 |-- ideas
+</pre>
