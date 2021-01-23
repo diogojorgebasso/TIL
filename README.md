@@ -14,9 +14,8 @@ With this, I wish to build rapport and engagement among the community for future
 
 #### Today:
 
-- Learned the power of the _factory_ architecture, the way of making the code more organized and concise.
-- Besides, learned how to make _injection of dependency_ in the main function to make _automated test_ -with Jest- easier.
-  Example: ```js
+- Finished coding the [Auth Test Driven in Node.js](https://github.com/diogojorgebasso/test-nodejs), which helped my understanding better how JEST worked and how it can improve the consistency of my code.
+- Got inspired by the repo: [Make your onw X](https://github.com/danistefanovic/build-your-own-x); showcase a road map for creating your facilities for the web
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -73,14 +72,38 @@ console.log("[Closing core] ");
 - Studied the _race condition_ in the [SerenityOS](https://github.com/SerenityOS/serenity) showed in [this video](https://www.youtube.com/watch?v=oIAP1_NrSbY&t=912s)
 - Studied past XSS attack on Google and how to avoid one by sanitizing the HTML(https://www.youtube.com/watch?v=lG7U3fuNw3A)
 
-##### 22/1/2021 - Public API's
+##### 22/1/2021 - Public API's & Amazon
 
 - Learned about [Public API's repository](https://github.com/public-apis/public-apis#index) and how it could impact in the quality of the repo's that I create.
+- Enhance the **Amazon clone UI** with ideas for future improvements, check [here](https://github.com/diogojorgebasso/amazon)
 
 ##### 23/1/2021 - Coding
 
-- Finished coding the [Auth Test Driven in Node.js](), which helped my understanding better how JEST worked and how it can improve the consistency of my code.
-- Got inspired by the repo: Make your onw X that showcase a road map for creating your facilities for the web(https://github.com/danistefanovic/build-your-own-x)
+- Finished coding the [Auth Test Driven in Node.js](https://github.com/diogojorgebasso/test-nodejs), which helped my understanding better how JEST worked and how it can improve the consistency of my code.
+- Got inspired by the repo: [Make your onw X](https://github.com/danistefanovic/build-your-own-x); showcase a road map for creating your facilities for the web
+
+##### 24/1/2021 - Coding
+
+##### 25/1/2021 - Coding
+
+##### 26/1/2021 - Coding
+
+##### 27/1/2021 - Coding
+
+##### 28/1/2021 - Coding
+
+##### 29/1/2021 - Coding
+
+##### 30/1/2021 - Coding
+
+##### 31/1/2021 - Coding
+
+##### 01/2/2021 - Coding
+
+##### 02/2/2021 - Coding
+
+##### 03/2/2021 - Coding
+
 </details>
 
 ## Folders Hierarchy for better understanding 📂
@@ -100,4 +123,5 @@ console.log("[Closing core] ");
 |-- best-practice
 |-- technologies
 |-- ideas
+|-- security & hack
 </pre>
