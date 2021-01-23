@@ -6,7 +6,7 @@ A collection of concise write-ups on small ideas that I learn _day to day_ acros
 variety of languages and technologies.
 With this, I wish to build rapport and engagement among the community for future opportunities!
 
-✨ _6 TIL's and counting..._
+✨ _8 TIL's and counting..._
 
 ---
 
@@ -21,12 +21,12 @@ With this, I wish to build rapport and engagement among the community for future
 <details>
 <summary>Find the detailed history here</summary>
 
-##### 1. 12/1/20201 - JS actions
+##### 12/1/20201 - JS actions
 
 - Finished the Github Actions course for working with Javascript actions: [Link](https://github.com/actions/toolkit).
 - Learned to use _WSL Ubuntu_, which instigate me learning more about git config, conventional commit; command-line interface.
 
-##### 2 .13/1/2021 - Terminology and study for stacks in the market
+##### 13/1/2021 - Terminology and study for stacks in the market
 
 - Finished the course about publishing to GitHub packages: [Repo](https://github.com/diogojorgebasso/github-actions-for-packages/)
 - Start to analyze language CodeQl for understanding about bootstrap's vulnerability in JQuery: [repo for study](https://github.com/diogojorgebasso/codeql-javascript-unsafe-jquery-plugin).
@@ -34,22 +34,22 @@ With this, I wish to build rapport and engagement among the community for future
 - Learn about Halts Theory and process by Alan Turning to prove that _"computers won't be able to solve every problem that we[as humans] give to them"_;
 - Studied the "problem" of multithread and real-time programming to improve my understanding over Node.js. [Check out introduction video by Tom Scott](https://www.youtube.com/watch?v=RY_2gElt3SA).
 
-##### 3. 14/1/2021 - DNA-RNA
+##### 14/1/2021 - DNA-RNA
 
 - I was seeing difficulties in writing code faster, although I've become a faster typer. Hence, make my programming more productive and achieve more code with less effort is what I'm searching for at the moment. Likewise, I searched and implemented extensions for VsCode.
 - Refactor of a [real application](https://github.com/diogojorgebasso/rnaedna) from **Python** to **HTML, CSS, and JS**. This program is responsible for doing the translation of DNA to RNAm, and vice-versa.
 
-##### 4. 15/1/2021 - CodeQl && Security
+##### 15/1/2021 - CodeQl && Security
 
 - Submitted an issue to implement .ql icon in the vscode extension [material themes icon](https://github.com/PKief/vscode-material-icon-theme/issues/931).
 - And, as I studied CodeQl, I saw the opportunitie to make the course [security on GitHub](https://github.com/diogojorgebasso/security-on-github/) to really understand the basics of how GitHub deal with.
 
-##### 5. 16/1/2021 - JS30
+##### 16/1/2021 - JS30
 
 - Finished the course [JS30](https://javascript30.com/), which helped me -a lot in- expanding the mind about vanilla JS: localStorage, events in general, functions, the structure of arrays, and a lot more. A highly recommended and transforming course that allows programmers and designers to understand the underly logic in Javascript, whereas seeing the possibilities that we can create.
 - Studying the possibility of translating the course JS30.
 
-##### 6. 17/1/2021 - Software Architecture
+##### 17/1/2021 - Software Architecture
 
 - Learned the power of the _factory_ architecture, the way of making the code more organized and concise.
 - Besides, learned how to make _injection of dependency_ in the main function to make _automated test_ -with Jest- easier.
@@ -68,11 +68,23 @@ console.log("[Closing core] ");
 }
 }
 
-```
+##### 22/1/2021 - XSS attacks and how to prevent it
 
+- Studied the _race condition_ in the [SerenityOS](https://github.com/SerenityOS/serenity) showed in [this video](https://www.youtube.com/watch?v=oIAP1_NrSbY&t=912s)
+- Studied past XSS attack on Google and how to avoid one by sanitizing the HTML(https://www.youtube.com/watch?v=lG7U3fuNw3A)
+
+##### 22/1/2021 - Public API's
+
+- Learned about [Public API's repository](https://github.com/public-apis/public-apis#index) and how it could impact in the quality of the repo's that I create.
+
+##### 23/1/2021 - Coding
+
+- Finished coding the [Auth Test Driven in Node.js](), which helped my understanding better how JEST worked and how it can improve the consistency of my code.
+- Got inspired by the repo: Make your onw X that showcase a road map for creating your facilities for the web(https://github.com/danistefanovic/build-your-own-x)
 </details>
 
 ## Folders Hierarchy for better understanding 📂
+
 <pre>
 .
 ├── README.md
@@ -84,9 +96,8 @@ console.log("[Closing core] ");
    ├── Linkedin
 |── books
 |-- stacks
-|-- repos
+|-- repo's
 |-- best-practice
 |-- technologies
 |-- ideas
 </pre>
-```
