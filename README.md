@@ -82,13 +82,16 @@ console.log("[Closing core] ");
 - Finished coding the [Auth Test Driven in Node.js](https://github.com/diogojorgebasso/test-nodejs), which helped my understanding better how JEST worked and how it can improve the consistency of my code.
 - Got inspired by the repo: [Make your onw X](https://github.com/danistefanovic/build-your-own-x); showcase a road map for creating your facilities for the web
 
-##### 24/1/2021 - Coding
+##### 24/1/2021 - Vacation!
 
-##### 25/1/2021 - Coding
+##### 25/1/2021 - Vacation!
 
-##### 26/1/2021 - Coding
+##### 26/1/2021 - Vacation!
 
-##### 27/1/2021 - Coding
+##### 27/1/2021 - Solidify my understanding in React + Firebase
+
+- Forked and revised [this repo](https://github.com/diogojorgebasso/React-Firebase-Auth) for study practices, and implemented some changes, as you can see in the commit history.
+- Started to implement the [Google's Drive Clone]()
 
 ##### 28/1/2021 - Coding
 

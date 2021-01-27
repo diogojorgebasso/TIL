@@ -31,4 +31,4 @@
 
 ### 4. Some program for quiz
 
-- Explanation: We, as humans, love to test our habilites -specially if it's not energy intense- through quiz; so, we could implement this for churches, small business and symptoms for covid-19
+- Explanation: We, as humans, love to test our habilites -specially if it's not energy intense- through quiz; so, we could implement this for churches, small business and symptoms for covid-19.
