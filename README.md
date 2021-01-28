@@ -12,13 +12,47 @@ With this, I wish to build rapport and engagement among the community for future
 
 ### Activity: 😀
 
+<details>
+
+<summary>Courses, Repositories, studies **before** TIL</summary>
+
+#### Python's Olympiad History
+
+The year was 2018, my principal called me; at this moment, I thought: "Oh, I'm in (real) trouble"! Instead, he offers me the **opportunity** to participate in the [OBI](https://olimpiada.ic.unicamp.br/) ("Olimpíada Brasileira de Informática" - translation), a National Olympiad of Programming in Brazil. I felt anxious as hell; replied: "sure"!
+As I went in my preparation, learning the classic Python language, I started to think like a programmer in term of: conditions, iterations, functions, and opened for me a completely magical world - machines doing tasks. This sentiment of controlling what the computer will do, and no longer a passive experience.
+My first line of code was very probably
+
+```py
+ print("Hello, World!")
+```
+
+, thus, starting in the right way.
+After weeks of not understanding the order of coding, loops and how computers actually know how to execute the lines of code - I presumed that computer could magically re-run the code-, for example:
+
+```py
+name = 'Diogo'
+if name == 'test':
+print('Aha!')
+name = test
+```
+
+And didn't make sense to me why was not printing "Aha!".
+Today, I can assure that I know why that's not the case, even though React kind of made my wish possible.
+Finally, I passed the first step of the OBI, which was Municipal. I could not control my feelings, felt like a little Kanguru jumping around happy in the middle of my house.
+Going on to the State Stage, I passed and went to the National. For a pupil in the eight year, inside the most advanced research center in the country (ITA), coding Python in an Intel's i7 processor, I could not be happier.
+In the middle of the 3 hour final test, I pondered about winning a medal- unfortunately didn't happen- but not even one question I couldn't answer. One question was about matrices, the order about graph theory with cities, like BFS, and the order some loops, wich I didn't figure out.
+So, at the end, I learned a lot of stuff, including: programming, the importance of practicing, writing clean code and a ton more that in this roadmap/TIL, You can get into.
+My advice is to never stop to study and pursue your objectives.
+
+> "The 'no' you already have, so go beyond and don't EVER be afraid to pursue"
+
+</details>
+
 #### Today:
 
-- Forked and revised [this repo](https://github.com/diogojorgebasso/React-Firebase-Auth) for **study practices**, and implemented some changes, as you can see in the commit history.
-- Started to implement the [Google's Drive Clone]();
-- Finished in Gist [RocketSeat Challenges](https://gist.github.com/diogojorgebasso/dddb1323befa872d510b6c99bc483978);
-- Organized and structured standard-version in all Repo's that I currently maintain;
-- Organized [Bootcamp in Advanced Python](https://github.com/diogojorgebasso/bootcamp-python-igti);
+- Created a clean Code example for classes: [gist](https://gist.github.com/diogojorgebasso/5794b66b05977c80911bbe2dd0663691)
+- Studied about Multithreading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
+- Finished the [(Google/One) Drive Clone](https://github.com/diogojorgebasso/drive-clone) repository!
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -91,15 +125,19 @@ console.log("[Closing core] ");
 
 ##### 26/1/2021 - Vacation!
 
-##### 27/1/2021 - Solidify my understanding in React + Firebase
+##### 27/1/2021 - Solidify my understanding in React + Firebase; Python.
 
 - Forked and revised [this repo](https://github.com/diogojorgebasso/React-Firebase-Auth) for **study practices**, and implemented some changes, as you can see in the commit history.
-- Started to implement the [Google's Drive Clone]();
+- Started to implement the [Google's Drive Clone](https://github.com/diogojorgebasso/drive-clone);
 - Finished in Gist [RocketSeat Challenges](https://gist.github.com/diogojorgebasso/dddb1323befa872d510b6c99bc483978);
 - Organized and structured standard-version in all Repo's that I currently maintain;
 - Organized [Bootcamp in Advanced Python](https://github.com/diogojorgebasso/bootcamp-python-igti);
 
-##### 28/1/2021 - Coding
+##### 28/1/2021 - Studied more advanced Python.
+
+- Created a clean Code example for classes: [gist](https://gist.github.com/diogojorgebasso/5794b66b05977c80911bbe2dd0663691)
+- Studied about Multithreading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
+- Finished the [(Google/One) Drive Clone](https://github.com/diogojorgebasso/drive-clone) repository!
 
 ##### 29/1/2021 - Coding
 
