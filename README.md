@@ -50,9 +50,9 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- Created a clean Code example for classes: [gist](https://gist.github.com/diogojorgebasso/5794b66b05977c80911bbe2dd0663691)
-- Studied about Multithreading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
-- Finished the [(Google/One) Drive Clone](https://github.com/diogojorgebasso/drive-clone) repository!
+- [Path to webdev](https://github.com/diogojorgebasso/path-webdev) is a repo that contains tons of links, design ideas and packages for making the life of web developer's **easy and more productive**!
+- Gist for [cloning a website](https://gist.github.com/diogojorgebasso/011fd4c3df2af764826b59205fbdda67)
+- Bettering my [High School portfolio](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -139,7 +139,11 @@ console.log("[Closing core] ");
 - Studied about Multithreading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
 - Finished the [(Google/One) Drive Clone](https://github.com/diogojorgebasso/drive-clone) repository!
 
-##### 29/1/2021 - Coding
+##### 29/1/2021 - First npm publication, snippet for scraping a website and making better documantion for an open source repo!
+
+- [Path to webdev](https://github.com/diogojorgebasso/path-webdev) is a repo that contains tons of links, design ideas and packages for making the life of web developer's **easy and more productive**!
+- Gist for [cloning a website](https://gist.github.com/diogojorgebasso/011fd4c3df2af764826b59205fbdda67)
+- Bettering my [High School portfolio](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
 ##### 30/1/2021 - Coding
 
