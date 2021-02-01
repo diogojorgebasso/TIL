@@ -50,9 +50,11 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- [Path to webdev](https://github.com/diogojorgebasso/path-webdev) is a repo that contains tons of links, design ideas and packages for making the life of web developer's **easy and more productive**!
-- Gist for [cloning a website](https://gist.github.com/diogojorgebasso/011fd4c3df2af764826b59205fbdda67)
-- Bettering my [High School portfolio](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
+- I make several commits in the Amazon's Clone, wrote the description, and deployed with Github's CI/CD actions! [Check out](https://github.com/diogojorgebasso/amazon)
+
+  > (My first complete and independent project as a Software Engineer)
+
+- Finished the fourth challenge in module 4 in my [Bootcamp](https://github.com/diogojorgebasso/bootcamp-python-igti/blob/main/desafio_mod4.ipynb)
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -139,15 +141,23 @@ console.log("[Closing core] ");
 - Studied about Multithreading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
 - Finished the [(Google/One) Drive Clone](https://github.com/diogojorgebasso/drive-clone) repository!
 
-##### 29/1/2021 - First npm publication, snippet for scraping a website and making better documantion for an open source repo!
+##### 29/1/2021 - First npm publication, snippet for scraping a website and making better documenting for an open source repo!
 
 - [Path to webdev](https://github.com/diogojorgebasso/path-webdev) is a repo that contains tons of links, design ideas and packages for making the life of web developer's **easy and more productive**!
 - Gist for [cloning a website](https://gist.github.com/diogojorgebasso/011fd4c3df2af764826b59205fbdda67)
 - Bettering my [High School portfolio](https://sites.google.com/aluno.colegioplanck.com.br/diogojbasso)
 
-##### 30/1/2021 - Coding
+##### 30/1/2021 - Read articles
 
-##### 31/1/2021 - Coding
+- I read several articles from github blog and web.dev, in order to understand, respectively, how [github made the world in the homepage](https://github.blog/2020-12-21-how-we-built-the-github-globe/), and [best practices for logIn and E-commerce](https://web.dev/sign-up-form-best-practices/#no-forced-sign-in).
+
+##### 31/1/2021 - Worked in the Amazon Project
+
+- I make several commits in the Amazon's Clone, wrote the description, and deployed with Github's CI/CD actions! [Check out](https://github.com/diogojorgebasso/amazon)
+
+  > (My first complete and independent project as a Software Engineer)
+
+- Finished the fourth challenge in module 4 in my [Bootcamp](https://github.com/diogojorgebasso/bootcamp-python-igti/blob/main/desafio_mod4.ipynb)
 
 ##### 01/2/2021 - Coding
 
