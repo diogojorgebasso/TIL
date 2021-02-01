@@ -6,7 +6,7 @@ A collection of concise write-ups on small ideas that I learn _day to day_ acros
 variety of languages and technologies.
 With this, I wish to build rapport and engagement among the community for future opportunities!
 
-✨ _19 TIL's and counting..._
+✨ _20 TIL's and counting..._
 
 ---
 
@@ -50,11 +50,8 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- I make several commits in the Amazon's Clone, wrote the description, and deployed with Github's CI/CD actions! [Check out](https://github.com/diogojorgebasso/amazon)
-
-  > (My first complete and independent project as a Software Engineer)
-
-- Finished the fourth challenge in module 4 in my [Bootcamp](https://github.com/diogojorgebasso/bootcamp-python-igti/blob/main/desafio_mod4.ipynb)
+- Nest in the backend and Next in the frontend
+- Use case: Completely made with microservices, Docker and software architecture
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -159,7 +156,10 @@ console.log("[Closing core] ");
 
 - Finished the fourth challenge in module 4 in my [Bootcamp](https://github.com/diogojorgebasso/bootcamp-python-igti/blob/main/desafio_mod4.ipynb)
 
-##### 01/2/2021 - Coding
+##### 01/2/2021 - Started [codePIX FullCycle project for the week](https://github.com/diogojorgebasso/codeql-javascript-unsafe-jquery-plugin)
+
+- Nest in the backend and Next in the frontend
+- Use case: Completely made with microservices, Docker and software architecture
 
 ##### 02/2/2021 - Coding
 
