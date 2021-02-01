@@ -6,7 +6,7 @@ A collection of concise write-ups on small ideas that I learn _day to day_ acros
 variety of languages and technologies.
 With this, I wish to build rapport and engagement among the community for future opportunities!
 
-✨ _11 TIL's and counting..._
+✨ _19 TIL's and counting..._
 
 ---
 
