@@ -50,8 +50,9 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- Nest in the backend and Next in the frontend
-- Use case: Completely made with microservices, Docker and software architecture
+- I studied more about graph theory and its correlation between vertices and matriz.
+  ![math theorem](https://bit.ly/3apfQhN)
+- Continued with the Fullcycle project
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -135,7 +136,7 @@ console.log("[Closing core] ");
 ##### 28/1/2021 - Studied more advanced Python.
 
 - Created a clean Code example for classes: [gist](https://gist.github.com/diogojorgebasso/5794b66b05977c80911bbe2dd0663691)
-- Studied about Multithreading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
+- Studied about Multi threading and Multiprocessing; [how to identify with Python](https://gist.github.com/diogojorgebasso/02baecaa1b91608d98d2894fa419178c)
 - Finished the [(Google/One) Drive Clone](https://github.com/diogojorgebasso/drive-clone) repository!
 
 ##### 29/1/2021 - First npm publication, snippet for scraping a website and making better documenting for an open source repo!
@@ -156,12 +157,16 @@ console.log("[Closing core] ");
 
 - Finished the fourth challenge in module 4 in my [Bootcamp](https://github.com/diogojorgebasso/bootcamp-python-igti/blob/main/desafio_mod4.ipynb)
 
-##### 01/2/2021 - Started [codePIX FullCycle project for the week](https://github.com/diogojorgebasso/codeql-javascript-unsafe-jquery-plugin)
+##### 01/2/2021 - Started [codePIX FullCycle project for the week](https://github.com/diogojorgebasso/imersao-fullstack)
 
 - Nest in the backend and Next in the frontend
 - Use case: Completely made with microservices, Docker and software architecture
 
-##### 02/2/2021 - Coding
+##### 02/2/2021 - Learning High Level Math
+
+- I studied more about graph theory and its correlation between vertices and matriz.
+  ![math theorem](https://bit.ly/3apfQhN)
+- Continued with the Fullcycle project
 
 ##### 03/2/2021 - Coding
 
