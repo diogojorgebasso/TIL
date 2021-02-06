@@ -159,16 +159,26 @@ console.log("[Closing core] ");
 
 ##### 01/2/2021 - Started [codePIX FullCycle project for the week](https://github.com/diogojorgebasso/imersao-fullstack)
 
-- Nest in the backend and Next in the frontend
+- Nest in the backend and Next.js in the frontend
 - Use case: Completely made with microservices, Docker and software architecture
 
 ##### 02/2/2021 - Learning High Level Math
 
 - I studied more about graph theory and its correlation between vertices and matriz.
   ![math theorem](https://bit.ly/3apfQhN)
-- Continued with the Fullcycle project
+- Continued with the Full cycle project
 
-##### 03/2/2021 - Coding
+##### 03/2/2021 - Day off for school purpose
+
+##### 04/2/2021 - Day off for school purpose
+
+##### 05/2/2021 - Continued with FullCycle Project
+
+Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
+
+##### 06/2/2021 - Coding
+
+##### 07/2/2021 - Coding
 
 </details>
 
