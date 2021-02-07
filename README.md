@@ -50,7 +50,7 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- Continued with the Fullcycle project. Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
+- Continued with the FullCycle project. Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
 <details>
 <summary>Find the detailed history here</summary>
