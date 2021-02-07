@@ -50,9 +50,7 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- I studied more about graph theory and its correlation between vertices and matriz.
-  ![math theorem](https://bit.ly/3apfQhN)
-- Continued with the Fullcycle project
+- Continued with the Fullcycle project. Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -176,9 +174,13 @@ console.log("[Closing core] ");
 
 Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
-##### 06/2/2021 - Coding
+##### 06/2/2021 - Continued with FullCycle Project
 
-##### 07/2/2021 - Coding
+Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
+
+##### 07/2/2021 - Continued with FullCycle Project
+
+Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
 </details>
 
