@@ -50,7 +50,7 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- Continued with the FullCycle project. Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
+- Fixed Bug and renew TSL certificate in client's [Wordpress Website](sousplastbrasil.com.br)
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -182,6 +182,33 @@ Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
 Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
+##### 08/2/2021 - Continued with FullCycle Project
+
+Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
+
+##### 09/2/2021 - Dev Summit II
+
+- Initiated [Dev Summit II in IGTI](https://github.com/diogojorgebasso/dev-summit)
+- Created a personalized Google Actions for Google Assistant with deploy in Firebase!
+
+##### 10/2/2021 - Continued with FullCycle Project
+
+- Fixed Bug and renew TSL certificate in client's [Wordpress Website](sousplastbrasil.com.br)
+
+* Code utilized after _research_:
+
+```bash
+sudo /opt/bitnami/ctlscript.sh stop
+sudo /opt/bitnami/letsencrypt/lego --tls --email="EMAIL-ADDRESS" --domains="DOMAIN" --path="/opt/bitnami/letsencrypt" renew --days 90
+sudo /opt/bitnami/ctlscript.sh start´´´
+
+And after, the creation of a Cronjob script in the Ngix Server
+
+- Commited in [Dev Summit II in IGTI](https://github.com/diogojorgebasso/dev-summit)
+
+##### 11/2/2021 - Continued with FullCycle Project
+##### 12/2/2021 - Continued with FullCycle Project
+
 </details>
 
 ## Folders Hierarchy for better understanding 📂
@@ -203,3 +230,4 @@ Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 |-- ideas
 |-- security & hack
 </pre>
+```
