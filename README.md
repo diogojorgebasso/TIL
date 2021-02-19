@@ -197,17 +197,17 @@ Follow it [here](https://github.com/diogojorgebasso/imersao-fullstack-fullcycle)
 
 * Code utilized after _research_:
 
-```bash
-sudo /opt/bitnami/ctlscript.sh stop
-sudo /opt/bitnami/letsencrypt/lego --tls --email="EMAIL-ADDRESS" --domains="DOMAIN" --path="/opt/bitnami/letsencrypt" renew --days 90
-sudo /opt/bitnami/ctlscript.sh start´´´
+`bash sudo /opt/bitnami/ctlscript.sh stop sudo /opt/bitnami/letsencrypt/lego --tls --email="EMAIL-ADDRESS" --domains="DOMAIN" --path="/opt/bitnami/letsencrypt" renew --days 90 sudo /opt/bitnami/ctlscript.sh start`
 
-And after, the creation of a Cronjob script in the Ngix Server
+And after, the creation of a Cronjob script in the Ngix Server.
 
 - Commited in [Dev Summit II in IGTI](https://github.com/diogojorgebasso/dev-summit)
 
-##### 11/2/2021 - Continued with FullCycle Project
-##### 12/2/2021 - Continued with FullCycle Project
+##### 18/2/2021 - Learned about Snap-Tabs in HTML
+
+- Studied the following [article](https://web.dev/building-a-tabs-component/)
+
+- Wrote a demo [document](techs/snap-tabs) practicing with it.
 
 </details>
 
@@ -230,4 +230,7 @@ And after, the creation of a Cronjob script in the Ngix Server
 |-- ideas
 |-- security & hack
 </pre>
+
+```
+
 ```
