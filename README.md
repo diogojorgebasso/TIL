@@ -50,7 +50,23 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
-- Fixed Bug and renew TSL certificate in client's [Wordpress Website](sousplastbrasil.com.br)
+- Finished the course in SoloLearn React + Redux
+
+- Summary:
+
+Redux can be described using the following principles:
+
+###### Single source of truth
+
+The global state of the app is stored in a single store.
+
+###### State is read-only
+
+You can change the state only by dispatching actions. Action are objects, that contain information about what should be changed.
+
+###### Pure reducers
+
+Reducers are functions that handle the actions and return the next state of the application. Reducers need to be pure, meaning they cannot modify the state, they need to return a new state object.
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -208,6 +224,26 @@ And after, the creation of a Cronjob script in the Ngix Server.
 - Studied the following [article](https://web.dev/building-a-tabs-component/)
 
 - Wrote a demo [document](techs/snap-tabs) practicing with it.
+
+##### 23/2/2021 - Learned about Redux with React
+
+- Finished the course in SoloLearn React + Redux
+
+- Summary:
+
+Redux can be described using the following principles:
+
+###### Single source of truth
+
+The global state of the app is stored in a single store.
+
+###### State is read-only
+
+You can change the state only by dispatching actions. Action are objects, that contain information about what should be changed.
+
+###### Pure reducers
+
+Reducers are functions that handle the actions and return the next state of the application. Reducers need to be pure, meaning they cannot modify the state, they need to return a new state object.
 
 </details>
 
