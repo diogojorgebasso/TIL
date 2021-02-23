@@ -227,7 +227,7 @@ And after, the creation of a Cronjob script in the Ngix Server.
 
 ##### 23/2/2021 - Learned about Redux with React
 
-- Finished the course in SoloLearn React + Redux
+- Finished the course in SoloLearn React + Redux, [available here](https://react-contact-manager-4-qltv3e.stackblitz.io)
 
 - Summary:
 
