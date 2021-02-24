@@ -225,9 +225,20 @@ And after, the creation of a Cronjob script in the Ngix Server.
 
 - Wrote a demo [document](techs/snap-tabs) practicing with it.
 
+##### 22/2/2021 - Designed and Coded for an open source extension
+
+> [material icons ui](https://github.com/PKief/vscode-material-icon-theme)
+
+- As I studied CodeQl, I noticed that there weren't an icon, thus, I created it
+  in [Figma](https://www.figma.com/file/F1uQWFkUvQToFhvY9QmYyZ/Untitled?node-id=0%3A1)- check out!
+
+- Submitted the [Pull Request](https://github.com/PKief/vscode-material-icon-theme/pull/959)
+
 ##### 23/2/2021 - Learned about Redux with React
 
-- Finished the course in SoloLearn React + Redux, [available here](https://react-contact-manager-4-qltv3e.stackblitz.io)
+- Finished the course in SoloLearn React + Redux, [available here](https://www.sololearn.com/Certificate/1097-20647754/jpg)
+
+  - [first_assignment](https://react-contact-manager-4-qltv3e.stackblitz.io)
 
 - Summary:
 
@@ -257,10 +268,10 @@ Reducers are functions that handle the actions and return the next state of the 
    ├── GitHub
    ├── Wesbos
    ├── B7Web
-   ├── Linkedin
+   ├── LinkedIn
 |── books
 |-- stacks
-|-- repo's
+|-- repos
 |-- best-practice
 |-- technologies
 |-- ideas
