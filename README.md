@@ -256,7 +256,13 @@ You can change the state only by dispatching actions. Action are objects, that c
 
 Reducers are functions that handle the actions and return the next state of the application. Reducers need to be pure, meaning they cannot modify the state, they need to return a new state object.
 
-</details>
+##### 24/2/2021 - Learned a precious tip in JS
+
+###### Don’t use delete to remove an item from array
+
+- Use **splice** instead of using delete to delete an item from an array. Using **delete** replaces the item with _undefined_ instead of removing it from the array.
+  - Checkout one live example in [gist](https://gist.github.com/diogojorgebasso/c60ebac465a2c1a82c11e0fe6e24561d)
+  </details>
 
 ## Folders Hierarchy for better understanding 📂
 
