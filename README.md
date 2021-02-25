@@ -262,7 +262,8 @@ Reducers are functions that handle the actions and return the next state of the 
 
 - Use **splice** instead of using delete to delete an item from an array. Using **delete** replaces the item with _undefined_ instead of removing it from the array.
   - Checkout one live example in [gist](https://gist.github.com/diogojorgebasso/c60ebac465a2c1a82c11e0fe6e24561d)
-  </details>
+
+</details>
 
 ## Folders Hierarchy for better understanding 📂
 
