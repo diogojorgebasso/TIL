@@ -267,6 +267,20 @@ Reducers are functions that handle the actions and return the next state of the 
 
 - I was buying in [Amazon's](https://github.com/diogojorgebasso/amazon) and, at the same time, looking for ways to improve the UX and add more ways to Singing in -with Google, for example. Thus, a [redesign in Amazon](techs/amazon/desing)
 
+##### 4/3/2021 - Learned about an API for listing the user tabs opened
+
+See the JS code below:
+`async function logListener(info) {
+try {
+let tabInfo = await browser.tabs.get(info.tabId);
+console.log(tabInfo);
+} catch (error) {
+console.error(error);
+}
+}
+
+browser.tabs.onActivated.addListener(logListener);`
+
 </details>
 
 ## Folders Hierarchy for better understanding 📂
