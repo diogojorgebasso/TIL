@@ -281,7 +281,24 @@ console.error(error);
 
 browser.tabs.onActivated.addListener(logListener);`
 
-</details>
+##### 13/3/2021 - Focused in my Blog Project (available now [here](https://diogobasso-site.web.app))
+
+- Routes, design (as saw in [this](https://www.figma.com/file/kY8xtAQXGro5lzOuVR9ddt/Diogo-basso-Site?node-id=40%3A3) site), a ton of API'S endpoints fetch with axios.
+- Managed the CI/CD with actions and deploy in Firebase (https://github.com/diogojorgebasso/site/actions)
+- Studied and extracted the most in React Bootstrap Modules;
+- made the first deploy in Firebase.
+
+##### 14/3/2021 - Focused in my Blog Project (available now [here](https://diogobasso-site.web.app))
+
+- Learned a lot about firebase Firestore, Hosting and Functions as saw in the [commit history](https://github.com/diogojorgebasso/site/commit/017e126e4e3bcafa7417c96b642127b0c594c805)
+- Created the [forms](https://forms.gle/XQ5JobcJ4vhhATcx8) to send the Survey/Feedback for the logged users in the site(diogobasso-site.web.app)
+
+##### 15/3/2021 - Focused in my Blog Project (available now [here](https://diogobasso-site.web.app))
+
+- Implemented payment and [UI changes](https://www.figma.com/file/kY8xtAQXGro5lzOuVR9ddt/Diogo-basso-Site?node-id=40%3A3)
+- Deployed CHANGELOG.md for all the commit changes
+- Searched for more functions and integrations in the Functions sample [repositories](https://github.com/firebase/functions-samples/)
+- </details>
 
 ## Folders Hierarchy for better understanding 📂
 
