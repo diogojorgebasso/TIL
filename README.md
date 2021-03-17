@@ -298,7 +298,16 @@ browser.tabs.onActivated.addListener(logListener);`
 - Implemented payment and [UI changes](https://www.figma.com/file/kY8xtAQXGro5lzOuVR9ddt/Diogo-basso-Site?node-id=40%3A3)
 - Deployed CHANGELOG.md for all the commit changes
 - Searched for more functions and integrations in the Functions sample [repositories](https://github.com/firebase/functions-samples/)
-- </details>
+
+##### 15/3/2021 - Studied more about AuthContext in React
+
+- Gitlog in Wakatime available [here](https://wakatime.com/@8a068428-fa3f-477f-b75b-b22b62a6b3c9/projects/fsrhrznppy?start=2021-03-11&end=2021-03-17)
+
+##### 17/3/2021 - Studied the Mansory Grid for development [here](snacks/mansory.css)
+
+- In order to study css for better desing ideias
+- Continued with ideas for my blog
+</details>
 
 ## Folders Hierarchy for better understanding 📂
 

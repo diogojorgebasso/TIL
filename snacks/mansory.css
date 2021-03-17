@@ -1,0 +1,18 @@
+/*oLD WAY*/
+figure {
+  margin: 0;
+  display: flex;
+  margin-bottom: 10px;
+  break-inside: avoid;
+}
+.container {
+  column-count: 5;
+  column-gap: 10px;
+}
+/*NEW WAY*/
+.container {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: mansory;
+}
