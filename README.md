@@ -314,19 +314,19 @@ browser.tabs.onActivated.addListener(logListener);`
 <pre>
 .
 ├── README.md
-|-- programming
+|-- best-practice
+|-- books
 ├── courses
    ├── GitHub
    ├── Wesbos
    ├── B7Web
    ├── LinkedIn
-|── books
-|-- stacks
+|── ideas
+|-- Olympiads
 |-- repos
-|-- best-practice
-|-- technologies
-|-- ideas
-|-- security & hack
+|-- security & hacks
+|-- snacks
+|-- techs
 </pre>
 
 ```
