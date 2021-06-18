@@ -3,10 +3,10 @@
 ## "Today I learn" is a repo that shows my study route for inspiring others in the magical world of programming!
 
 A collection of concise write-ups on small ideas that I learn _day to day_ across a
-variety of languages and technologies.
-With this, I wish to build rapport and engagement among the community for future opportunities!
+variety of languages, technologies, snacks.
+With this, I wish to build **rapport and engagement** for future opportunities!
 
-✨ _20 TIL's and counting..._
+✨ _22 TIL's and counting..._
 
 ---
 
@@ -16,7 +16,7 @@ With this, I wish to build rapport and engagement among the community for future
 
 <summary>Courses, Repositories, studies **before** TIL</summary>
 
-#### Python's Olympiad History
+#### National's Olympiad (History)
 
 The year was 2018, my principal called me; at this moment, I thought: "Oh, I'm in (real) trouble"! Instead, he offers me the **opportunity** to participate in the [OBI](https://olimpiada.ic.unicamp.br/) ("Olimpíada Brasileira de Informática" - translation), a National Olympiad of Programming in Brazil. I felt anxious as hell; replied: "sure"!
 As I went in my preparation, learning the classic Python language, I started to think like a programmer in term of: conditions, iterations, functions, and opened for me a completely magical world - machines doing tasks. This sentiment of controlling what the computer will do, and no longer a passive experience.
@@ -50,23 +50,10 @@ My advice is to never stop to study and pursue your objectives.
 
 #### Today:
 
+- Published this [gist](https://gist.github.com/diogojorgebasso/c33fa14f6576630409a8cefd23f5f732) for complementing my studies.
+- Organizing all [projects](https://github.com/users/diogojorgebasso/projects/3)
+- Starting implementing a site for _Catholic Church_ with a [Friend](https://github.com/AnaBibi) - No profit. Available [here](https://github.com/diogojorgebasso/pontecatolica)
 - Finished the course in SoloLearn React + Redux
-
-- Summary:
-
-Redux can be described using the following principles:
-
-###### Single source of truth
-
-The global state of the app is stored in a single store.
-
-###### State is read-only
-
-You can change the state only by dispatching actions. Action are objects, that contain information about what should be changed.
-
-###### Pure reducers
-
-Reducers are functions that handle the actions and return the next state of the application. Reducers need to be pure, meaning they cannot modify the state, they need to return a new state object.
 
 <details>
 <summary>Find the detailed history here</summary>
@@ -291,7 +278,7 @@ browser.tabs.onActivated.addListener(logListener);`
 ##### 14/3/2021 - Focused in my Blog Project (available now [here](https://diogobasso-site.web.app))
 
 - Learned a lot about firebase Firestore, Hosting and Functions as saw in the [commit history](https://github.com/diogojorgebasso/site/commit/017e126e4e3bcafa7417c96b642127b0c594c805)
-- Created the [forms](https://forms.gle/XQ5JobcJ4vhhATcx8) to send the Survey/Feedback for the logged users in the site(diogobasso-site.web.app)
+- Created the [forms](https://forms.gle/XQ5JobcJ4vhhATcx8) to send the Survey/Feedback for the logged users in the [site](diogobasso-site.web.app)
 
 ##### 15/3/2021 - Focused in my Blog Project (available now [here](https://diogobasso-site.web.app))
 
@@ -301,12 +288,23 @@ browser.tabs.onActivated.addListener(logListener);`
 
 ##### 15/3/2021 - Studied more about AuthContext in React
 
-- Gitlog in Wakatime available [here](https://wakatime.com/@8a068428-fa3f-477f-b75b-b22b62a6b3c9/projects/fsrhrznppy?start=2021-03-11&end=2021-03-17)
+- GitLog in Wakatime available [here](https://wakatime.com/@8a068428-fa3f-477f-b75b-b22b62a6b3c9/projects/fsrhrznppy?start=2021-03-11&end=2021-03-17)
 
 ##### 17/3/2021 - Studied the Mansory Grid for development [here](snacks/mansory.css)
 
-- In order to study css for better desing ideias
+- In order to study css for better design ideias
 - Continued with ideas for my blog
+
+##### 18/06/2021 - After a lot of classes, re-engaging in code.
+
+- Published this [gist](https://gist.github.com/diogojorgebasso/c33fa14f6576630409a8cefd23f5f732) for complementing my studies.
+- Organizing all [projects](https://github.com/users/diogojorgebasso/projects/3)
+- Starting implementing a site for _Catholic Church_ with a [Friend](https://github.com/AnaBibi) - No profit. Available [here](https://github.com/diogojorgebasso/pontecatolica)
+
+##### 19/06/2021 - Continuing feeding "Ponte Catolica".
+
+Available [here](https://github.com/diogojorgebasso/pontecatolica)
+
 </details>
 
 ## Folders Hierarchy for better understanding 📂
@@ -328,7 +326,3 @@ browser.tabs.onActivated.addListener(logListener);`
 |-- snacks
 |-- techs
 </pre>
-
-```
-
-```
